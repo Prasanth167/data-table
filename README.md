@@ -69,3 +69,4 @@ export default tseslint.config([
 ```
 # data-table
 # DataTable
+# data-table
