@@ -77,7 +77,7 @@ function DataTableComponent() {
                 selectionMode="multiple"
             >
                 <Column
-                    selectionMode="multiple" headerCheckbox
+                    selectionMode="multiple"
                     headerStyle={{ width: '3rem' }}
                 />
                 <Column field="title" header={titleHeaderTemplate} />
